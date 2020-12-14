@@ -1,0 +1,193 @@
+10/12/2020 23:51:47
+	Archivo: Practica1_Entrada (1).csv
+    Criterio de finalizacion: Maxima Generacion
+    Criterio de Padres: Mejor fitness
+    Numero de Generaciones: 500
+    Mejor Solucion: [0.10715216409438888, 0.19079294588576357, 0.33265148151511426, 0.34222316666625296]
+    Fitness Solucion: 8.737887759731034
+10/12/2020 23:53:25
+    Archivo: Practica1_Entrada (1).csv
+    Criterio de finalizacion: Porcentaje
+    Criterio de Padres: Mejor fitness
+    Numero de Generaciones: 15
+    Mejor Solucion: [0.6596816480847036, 0.4297798780314648, -0.14680424115401225, -0.056580140869998186]
+    Fitness Solucion: 682.5874680247064
+10/12/2020 23:55:25
+    Archivo: Practica1_Entrada (1).csv
+    Criterio de finalizacion: Valor Minimo
+    Criterio de Padres: Mejor fitness
+    Numero de Generaciones: 3087
+    Mejor Solucion: [0.15589920589223105, 0.14639736880754262, 0.3088043920054937, 0.3837019661628629]
+    Fitness Solucion: 0.3775971801684156
+11/12/2020 00:02:13
+    Archivo: Practica1_Entrada (1).csv
+    Criterio de finalizacion: Maxima Generacion
+    Criterio de Padres: Torneo
+    Numero de Generaciones: 500
+    Mejor Solucion: [0.151630643123839, 0.037854611992594656, 0.3331976236523446, 0.3857566504485961]
+    Fitness Solucion: 32.104951627980164
+11/12/2020 17:41:12
+    Archivo: Practica1_Entrada (1).csv
+    Criterio de finalizacion: Valor Minimo
+    Criterio de Padres: Mejor fitness
+    Numero de Generaciones: 3217
+    Mejor Solucion: [0.16147422213732554, 0.14352382955127796, 0.28701411323907955, 0.41006823952782057]
+    Fitness Solucion: 0.3869149000659037
+11/12/2020 18:17:14
+    Archivo: Practica1_Entrada (1).csv
+    Criterio de finalizacion: Porcentaje
+    Criterio de Padres: Mejor fitness
+    Numero de Generaciones: 13
+    Mejor Solucion: [-0.1556058603954158, 0.3321793354313596, 0.34498282573486705, 0.4280851663653342]
+    Fitness Solucion: 114.29785646285869
+11/12/2020 18:17:29
+    Archivo: Practica1_Entrada (1).csv
+    Criterio de finalizacion: Porcentaje
+    Criterio de Padres: Mejor fitness
+    Numero de Generaciones: 10
+    Mejor Solucion: [0.3393546563936747, 0.5842773808830519, 0.7596344619922943, -0.15457010657328496]
+    Fitness Solucion: 1337.3459776452996
+11/12/2020 18:18:00
+    Archivo: Practica1_Entrada (1).csv
+    Criterio de finalizacion: Porcentaje
+    Criterio de Padres: Mejor fitness
+    Numero de Generaciones: 14
+    Mejor Solucion: [-0.0757989492315505, 0.43274519089199837, 0.3227220344177608, 0.3093073012833698]
+    Fitness Solucion: 118.10005901083838
+11/12/2020 18:18:20
+    Archivo: Practica1_Entrada (1).csv
+    Criterio de finalizacion: Maxima Generacion
+    Criterio de Padres: Mejor fitness
+    Numero de Generaciones: 500
+    Mejor Solucion: [0.12869016837152225, 0.10534387343865204, 0.3342702948738676, 0.43595829022017085]
+    Fitness Solucion: 4.462661564819299
+11/12/2020 18:20:13
+    Archivo: Practica1_Entrada (1).csv
+    Criterio de finalizacion: Valor Minimo
+    Criterio de Padres: Mejor fitness
+    Numero de Generaciones: 945
+    Mejor Solucion: [0.13595599146523618, 0.16062390456706677, 0.2933069314826602, 0.41455864868863834]
+    Fitness Solucion: 0.4887746867435597
+11/12/2020 18:25:29
+    Archivo: Practica1_Entrada (1).csv
+    Criterio de finalizacion: Valor Minimo
+    Criterio de Padres: Mejor fitness
+    Numero de Generaciones: 1206
+    Mejor Solucion: [0.14817123305015345, 0.15537716000833246, 0.3101473081036348, 0.38125857034053556]
+    Fitness Solucion: 0.4756234994772806
+11/12/2020 18:30:07
+    Archivo: Practica1_Entrada (1).csv
+    Criterio de finalizacion: Porcentaje
+    Criterio de Padres: Mejor fitness
+    Numero de Generaciones: 19
+    Mejor Solucion: [0.039355411234860416, 0.19067227921653007, 0.32466119848247343, 0.3997230486499861]
+    Fitness Solucion: 17.836364188642925
+11/12/2020 18:30:35
+    Archivo: Practica1_Entrada (1).csv
+    Criterio de finalizacion: Maxima Generacion
+    Criterio de Padres: Mejor fitness
+    Numero de Generaciones: 500
+    Mejor Solucion: [0.13333962265872623, 0.16051693782693865, 0.2971052185608558, 0.41211718052873625]
+    Fitness Solucion: 0.44927638667366804
+11/12/2020 19:36:19
+    Archivo: Practica1_Entrada (1).csv
+    Criterio de finalizacion: Valor Minimo
+    Criterio de Padres: Mejor fitness
+    Numero de Generaciones: 606
+    Mejor Solucion: [0.138464948430721, 0.14963225369046507, 0.2978820709964265, 0.41778120331077684]
+    Fitness Solucion: 0.4082766179036559
+11/12/2020 21:00:35
+    Archivo: Practica1_Entrada (1).csv
+    Criterio de finalizacion: Porcentaje
+    Criterio de Padres: Mejor fitness
+    Numero de Generaciones: 48
+    Mejor Solucion: [0.09486353397022462, 0.206038480667476, 0.27962321416485114, 0.4328066905630763]
+    Fitness Solucion: 6.427042062341582
+11/12/2020 21:01:05
+    Archivo: Practica1_Entrada (1).csv
+    Criterio de finalizacion: Porcentaje
+    Criterio de Padres: Mejor fitness
+    Numero de Generaciones: 35
+    Mejor Solucion: [0.2913966958881242, 0.13737279796577972, 0.32635023883123315, 0.23001315885830387]
+    Fitness Solucion: 41.441029049482744
+12/12/2020 19:07:20
+    Archivo: Practica1_Entrada (1).csv
+    Criterio de finalizacion: Maxima Generacion
+    Criterio de Padres: Mejor fitness
+    Numero de Generaciones: 500
+    Mejor Solucion: [0.1455144435201965, 0.16174495243964326, 0.28218215876701924, 0.41616241327979386]
+    Fitness Solucion: 0.6627236975882859
+12/12/2020 20:29:14
+    Archivo: Practica1_Entrada (1).csv
+    Criterio de finalizacion: Porcentaje
+    Criterio de Padres: Mejor fitness
+    Numero de Generaciones: 19
+    Mejor Solucion: [0.21583746904186585, 0.33015179246826065, 0.36840546858747514, 0.20762237027710162]
+    Fitness Solucion: 107.03432385357466
+12/12/2020 20:30:10
+    Archivo: Practica1_Entrada (1).csv
+    Criterio de finalizacion: Porcentaje
+    Criterio de Padres: Torneo
+13/12/2020 18:57:29
+    Archivo: Practica1_Entrada (1).csv
+    Criterio de finalizacion: Valor Minimo
+    Criterio de Padres: Mejor fitness
+    Numero de Generaciones: 699
+    Mejor Solucion: [0.1667372914401244, 0.14402407387222516, 0.3009914646099121, 0.3972393455579821]
+    Fitness Solucion: 0.48574519886496
+13/12/2020 19:03:31
+    Archivo: Practica1_Entrada (1).csv
+    Criterio de finalizacion: Porcentaje
+    Criterio de Padres: Mejor fitness
+13/12/2020 19:04:06
+    Archivo: Practica1_Entrada (1).csv
+    Criterio de finalizacion: Porcentaje
+    Criterio de Padres: Mejor fitness
+13/12/2020 19:04:40
+    Archivo: Practica1_Entrada (1).csv
+    Criterio de finalizacion: Porcentaje
+    Criterio de Padres: Mejor fitness
+    Numero de Generaciones: 27
+    Mejor Solucion: [0.2730529847209686, 0.1585896270284799, 0.2715535206752864, 0.27795081283014067]
+    Fitness Solucion: 26.80737418340741
+    Terminino: 13/12/2020 19:04:56
+13/12/2020 19:05:17
+    Archivo: Practica1_Entrada (1).csv
+    Criterio de finalizacion: Valor Minimo
+    Criterio de Padres: Mejor fitness
+    Numero de Generaciones: 1173
+    Mejor Solucion: [0.16273493710257725, 0.15089820054865832, 0.2813577460238008, 0.40482053811757135]
+    Fitness Solucion: 0.448874242051004
+    Terminino: 13/12/2020 19:11:15
+13/12/2020 19:12:02
+    Archivo: Practica1_Entrada (1).csv
+    Criterio de finalizacion: Valor Minimo
+    Criterio de Padres: Mejor fitness
+    Numero de Generaciones: 654
+    Mejor Solucion: [0.1639475132221846, 0.14139368474101577, 0.2792333805492868, 0.41045026139750496]
+    Fitness Solucion: 0.7276330995267241
+    Terminino: 13/12/2020 19:15:24
+13/12/2020 19:37:06
+    Archivo: Practica1_Entrada (1).csv
+    Criterio de finalizacion: Porcentaje
+    Criterio de Padres: Mejor fitness
+    Numero de Generaciones: 27
+    Mejor Solucion: [-0.016806591286322003, 0.10654076707887983, 0.29070331840530894, 0.5154049141486343]
+    Fitness Solucion: 66.0314776958379
+    Terminino: 13/12/2020 19:37:17
+13/12/2020 19:38:05
+    Archivo: Practica1_Entrada (1).csv
+    Criterio de finalizacion: Porcentaje
+    Criterio de Padres: Mejor fitness
+    Numero de Generaciones: 12
+    Mejor Solucion: [0.24540602103104003, 0.2625617073911375, -0.04888856749788273, 0.32231408240850845]
+    Fitness Solucion: 242.76903297946802
+    Terminino: 13/12/2020 19:38:11
+13/12/2020 19:40:09
+    Archivo: Practica1_Entrada (1).csv
+    Criterio de finalizacion: Porcentaje
+    Criterio de Padres: Mejor fitness
+    Numero de Generaciones: 24
+    Mejor Solucion: [0.4761692305778973, -0.1826763557600759, 0.19190404398119254, 0.5414447955120365]
+    Fitness Solucion: 212.01706181683744
+    Terminino: 13/12/2020 19:40:18

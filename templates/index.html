@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Practica 01</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+</head>
+
+<body>
+    <h3>Practica 01 - 201503935</h3>
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <h3>Seleccionar un Archivo</h3>
+                <input id="archivo" type="file"  m onchange="abrirArchivo()" />
+                
+            </div>
+            <div class="col">
+                <h3>Predecir Nota Estudiante</h3>
+                <div class="form-group">
+                    <label for="proyecto1">Proyecto 1</label>
+                    <input type="text" class="form-control" id="proyecto1" placeholder="75">
+                </div>
+                <div class="form-group">
+                    <label for="proyecto2">Proyecto 2</label>
+                    <input type="text" class="form-control" id="proyecto2" placeholder="65">
+                </div>
+                <div class="form-group">
+                    <label for="proyecto3">Proyecto 3</label>
+                    <input type="text" class="form-control" id="proyecto3" placeholder="85">
+                </div>
+                <div class="form-group">
+                    <label for="proyecto4">Proyecto 4</label>
+                    <input type="text" class="form-control" id="proyecto4" placeholder="95">
+                </div>
+                <br>
+                <button type="button" class="btn btn-info" onclick="CalcularNota()">Calcular Nota</button>
+                <br>
+                <p id="nota"></p>
+            </div>
+            <div class="w-100"></div>
+            <div class="col">
+                <h3>Seleccionar un Criterio de Finalizacion</h3>
+
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" name="cirterioFin" id="crf1" value="1" checked>
+                    <label class="form-check-label" for="crf1">
+                        Maxima Generacion
+                    </label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" name="cirterioFin" id="crf2" value="2">
+                    <label class="form-check-label" for="crf2">
+                        Valor Minimo
+                    </label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" name="cirterioFin" id="crf3" value="3">
+                    <label class="form-check-label" for="crf3">
+                        Porcentaje
+                    </label>
+                </div>
+            </div>
+            <div class="w-100"></div>
+            <div class="col">
+                <h3>Seleccionar un Modo de Seleccion de Padres</h3>
+
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" name="modoPa" id="modoPa1" value="1" checked>
+                    <label class="form-check-label" for="modoPa1">
+                        Aleatorio
+                    </label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" name="modoPa" id="modoPa2" value="2">
+                    <label class="form-check-label" for="modoPa2">
+                        Torneo
+                    </label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" name="modoPa" id="modoPa3" value="3">
+                    <label class="form-check-label" for="modoPa3">
+                        Mejores
+                    </label>
+                </div>
+                <br>
+                <button type="button" class="btn btn-dark" onclick="GenerarModelo()">Generar Modelo</button>
+            </div>
+        </div>
+    </div>
+    <script src="{{ url_for('static', filename= 'js/funciones.js') }}"></script>
+    <script src="{{ url_for('static', filename= 'js/jquery-3.5.1.min.js') }}"></script>
+</body>
+
+</html>
